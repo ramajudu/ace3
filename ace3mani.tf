@@ -97,3 +97,7 @@ resource "aws_security_group" "sgname"{
 
   }
 }
+
+output "hello world"{
+value = hello world
+}
